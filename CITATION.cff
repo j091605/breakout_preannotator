@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "[PAPER TITLE HERE]"
+authors:
+  - family-names: "[LAST NAME]"
+    given-names: "[FIRST NAME]"
+    affiliation: "[AFFILIATION]"
+    orcid: "https://orcid.org/[ORCID ID]"
+version: 1.0.0
+date-released: "2026-07-14"
+repository-code: "https://github.com/[USERNAME]/[REPO NAME]"
+preferred-citation:
+  type: article
+  title: "[PAPER TITLE HERE]"
+  authors:
+    - family-names: "[LAST NAME]"
+      given-names: "[FIRST NAME]"
+  journal: "[JOURNAL / CONFERENCE NAME]"
+  year: 2026
+  doi: "[DOI]"

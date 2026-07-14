@@ -1,0 +1,33 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environments
+.venv/
+venv/
+env/
+
+# Data and generated results (kept out of version control; see README
+# for how to obtain/generate them). Remove or adjust these lines if you
+# want to version small example datasets.
+data/raw_pdfs/*
+data/segmented_images/*
+data/breakout_images/*
+!data/raw_pdfs/.gitkeep
+!data/segmented_images/.gitkeep
+!data/breakout_images/.gitkeep
+
+# Large pipeline outputs
+**/breakout_preannotator/
+
+# Old files of the breakout preannotator
+breakout_annotator_PAPER.ipynb
+pdf_image_segmentation.py
