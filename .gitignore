@@ -27,7 +27,3 @@ data/breakout_images/*
 
 # Large pipeline outputs
 **/breakout_preannotator/
-
-# Old files of the breakout preannotator
-breakout_annotator_PAPER.ipynb
-pdf_image_segmentation.py
