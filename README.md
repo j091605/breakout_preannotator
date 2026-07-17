@@ -1,10 +1,10 @@
-# [“An unsupervised workflow for pre-annotation of borehole breakout from acoustic image logs.”]
+# “An unsupervised workflow for pre-annotation of borehole breakout from acoustic image logs.”
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Code accompanying the paper:
 
-> [Jack M. Faustinoni, Argos B. S. Schrank, Guilherme F. Chinelatto, Mateus Basso, Alexandre C. Vidal, Mateus Roder]. "[An unsupervised workflow for pre-annotation of borehole breakout from acoustic image logs.]." *[JOURNA]*, 2026. [DOI / arXiv link]
+> Jack M. Faustinoni, Argos B. S. Schrank, Guilherme F. Chinelatto, Mateus Basso, Alexandre C. Vidal, Mateus Roder]. "[An unsupervised workflow for pre-annotation of borehole breakout from acoustic image logs." *[JOURNA]*, 2026. [DOI / arXiv link]
 
 This repository provides two independent, standalone routines used in the study:
 
